@@ -217,3 +217,10 @@ button[type="submit"]:hover {
   text-align: center;
   padding: 10px
 }
+
+.home-page {
+  background-image: url('../images/cookie-monster.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center 100px;
+}
