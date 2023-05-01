@@ -219,7 +219,7 @@ button[type="submit"]:hover {
 }
 
 .home-page {
-  background-image: url('../images/cookie-monster.gif');
+  background-image: url('cookie-monster.gif');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center 100px;
